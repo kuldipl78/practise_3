@@ -26,3 +26,9 @@ DELETE http://localhost:3000/districts/2/
 ###
 
 PUT http://localhost:3000/districts/3/
+
+###
+GET http://localhost:3000/states/1/stats/
+
+###
+GET http://localhost:3000/districts/6/details/
